@@ -1,0 +1,6 @@
+{
+  "name": "Buddy Elder AI",
+  "description": "Unified intelligent elderly care, digital scam safety, audio OCR reading, wellness, learning academy, and family autonomy platform.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
